@@ -1,0 +1,2 @@
+# About
+This project is web blog made with Rails, SQLite3 and SCSS. In the application the user have all the CRUD functionalities, model validation, can create tags, other users can comment on a particular post and search based on the tag.
